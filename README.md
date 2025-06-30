@@ -8,7 +8,7 @@ Schematic Weather Representation: Displays detailed weather information in a tex
 
 Graphical Weather Visualization: Generates a line graph showing the highest temperatures for today, tomorrow, and the day after tomorrow, making it easy to observe trends.
 
-Features:
+**Features:**
 
 Detects the user's location automatically using their IP address or allows manual input of a city name.
 

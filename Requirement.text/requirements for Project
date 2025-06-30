@@ -1,0 +1,18 @@
+#requirements for Project
+requests==2.28.1  
+matplotlib==3.6.2 
+
+
+#module to import
+import requests
+import matplotlib.pyplot as plt
+
+
+# Wttr API for shemantic representation
+response = requests.get("https://wttr.in?format=%t")
+print(f"Current Temperature: {response.text}")
+
+
+#ipinfo to get geographical address of an user
+response = requests.get('https://ipinfo.io/')
+print(response.json())

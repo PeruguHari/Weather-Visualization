@@ -1,5 +1,5 @@
-# Weather-Visualization
-Dynamic Weather Visualization and Representation Tool
+# Dynamic Weather Visualization and Representation Tool
+
 
 Description:
 This project is a Python-based application that dynamically fetches and displays weather data for any specified city or the user's current location. It integrates text-based schematic weather representation with graphical visualization to provide a comprehensive and user-friendly experience.

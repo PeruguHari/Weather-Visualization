@@ -1,7 +1,7 @@
 # Dynamic Weather Visualization and Representation Tool
 
 
-Description:
+**Description:**
 This project is a Python-based application that dynamically fetches and displays weather data for any specified city or the user's current location. It integrates text-based schematic weather representation with graphical visualization to provide a comprehensive and user-friendly experience.
 
 The project leverages the wttr.in service to retrieve real-time weather data and offers the following features:
@@ -10,7 +10,7 @@ Schematic Weather Representation: Displays detailed weather information in a tex
 
 Graphical Weather Visualization: Generates a line graph showing the highest temperatures for today, tomorrow, and the day after tomorrow, making it easy to observe trends.
 
-Features:
+**Features:**
 
 Detects the user's location automatically using their IP address or allows manual input of a city name.
 
@@ -20,19 +20,19 @@ Uses Python's requests library to fetch real-time weather data and Matplotlib fo
 
 Provides robust error handling to ensure a seamless user experience.
 
-Technologies Used:
+**Technologies Used:**
 
 Programming Language: Python
 
-Libraries:
+**Libraries:**
 
 requests for HTTP requests and data fetching.
 
 matplotlib for data visualization.
 
-Data Source: wttr.in for real-time weather data (text and JSON formats).
+**Data Source:** wttr.in for real-time weather data (text and JSON formats).
 
-Use Cases:
+**Use Cases:**
 
 Quickly check the current weather and forecast for the next three days.
 
